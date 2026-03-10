@@ -1,3 +1,3 @@
-Lacrosse Scorekeeper Privacy policy
+## Lacrosse Scorekeeper Privacy policy
 
 We do not collect any personal data or information from our users.
