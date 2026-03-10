@@ -1,4 +1,4 @@
-B# Lacrosse ScoreKeeper
+# Lacrosse ScoreKeeper
 
 A comprehensive iOS app for tracking lacrosse games in real-time, built with SwiftUI and SwiftData.
 
