@@ -389,17 +389,6 @@ Whether you're a coach breaking down film, a parent keeping the book, or a fan w
 
 lacrosse, scorekeeping, score keeper, stats, statistics, live scoring, game clock, coach, penalty tracker, box score
 
-### Screenshots
-
-The following screenshots are recommended for App Store submission. Capture these on an iPhone 6.7" display (iPhone 15 Pro Max or iPhone 16 Pro Max) and a 6.5" display (iPhone 11 Pro Max) for full device coverage.
-
-1. **Live Scoring View** — Show the split-screen layout with the jersey number keypad on the left and action buttons on the right, with the scoreboard and game clock visible in the header.
-2. **Game Clock & Penalties** — Capture an active game with the clock running, at least one active penalty counting down, and the score displayed.
-3. **Player Stats** — Show the player statistics screen with a roster of players and their season stats (goals, assists, points, etc.).
-4. **Team Stats** — Display the team statistics summary with win/loss record, goals scored/allowed, and other aggregate stats.
-5. **Game Summary** — Show a completed game's detail view with the final score, event timeline with quarter dividers, and scoring breakdown.
-6. **Games List** — Show the main games list with sections for In Progress, Upcoming, and Completed games, highlighting the live indicator animation.
-
 ### App Store Categories
 - **Primary:** Sports
 - **Secondary:** Utilities
